@@ -1,0 +1,11 @@
+# datasets
+garbage-dataset/
+
+# model outputs
+trained_models/
+
+# notebooks junk
+.ipynb_checkpoints/
+
+# cache
+tfenv/
