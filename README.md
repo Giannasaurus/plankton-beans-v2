@@ -3,6 +3,7 @@
 ## Dataset
 Due to size limits the dataset is not included in the repo. But here's how it would look like:
 
+<pre>
 garbage-dataset/ <br>
  ├── nonrecyclable/ <br>
     ├── battery/ <br>
@@ -16,5 +17,6 @@ garbage-dataset/ <br>
     ├── paper/ <br>
     ├── plastic/ <br>
     └── shoes/ <br>
+</pre>
  
 Source of dataset: [Garbage Dataset](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2) by Suman Kunwar
