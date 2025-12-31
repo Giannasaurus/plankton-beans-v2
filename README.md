@@ -10,19 +10,19 @@ I use da AI to do da AI homework Part 2 <br>
 Due to size limits the dataset is not included in the repo. But here's how it would look like:
 
 <pre>
-garbage-dataset/ <br>
- ├── nonrecyclable/ <br>
-    ├── battery/ <br>
-    ├── biological/ <br>
-    └── trash/ <br>
- └── recyclable/ <br>
-    ├── cardboard/ <br>
-    ├── clothes/ <br>
-    ├── glass/ <br>
-    ├── metal/ <br>
-    ├── paper/ <br>
-    ├── plastic/ <br>
-    └── shoes/ <br>
+garbage-dataset/
+ ├── nonrecyclable/
+    ├── battery/
+    ├── biological/
+    └── trash/
+ └── recyclable/
+    ├── cardboard/
+    ├── clothes/
+    ├── glass/
+    ├── metal/
+    ├── paper/
+    ├── plastic/
+    └── shoes/
 </pre>
  
 Source of dataset: [Garbage Dataset](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2) by Suman Kunwar
